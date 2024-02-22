@@ -14,5 +14,5 @@
 10. target 폴더로 이동 후 java -jar unit-testing.... & 로 백그라운드 실행
 11. curl localhost:8080/api/employees로 확인
 <img src="./images/curl.PNG" width="1400" height="100"/>
-13. 윈도우에서 virtualbox ip 확인하고 브라우저에서 해당 ip:8080/api/employeess로 접속해서 확인
+12. 윈도우에서 virtualbox ip 확인하고 브라우저에서 해당 ip:8080/api/employeess로 접속해서 확인
     <img src="./images/chrome.PNG" width="700" height="250"/>
